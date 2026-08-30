@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset ="UFT-8">
+    <title>recetas caseras</title>
+
+
+</head> 
+
+<body>
+    <body style="background-color:#CAB0F5">
+    <header>
+       <h1>Recetas Caseras</h1>
+
+    <nav>
+     <a href="ingredientes.html">Ingredientes</a>
+     <a href="preparacion.html">preparación</a>
+
+
+
+
+    </nav>
+
+
+    </header>
+<hr>
+    <article>
+    <h2>Receta: spaguetti a la boloñesa</h2>
+    <img src="images.jpg" width="400">
+    <img src="https://cdn7.kiwilimon.com/recetaimagen/20773/640x640/9528.jpg.webp"width="400">
+
+
+
+
+    </article>
+
+</body>
+
+</html>
